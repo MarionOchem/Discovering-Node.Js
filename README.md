@@ -27,7 +27,7 @@ A simple Dataviz project to discover Node.js runtime environment with Express, P
 * Modeling database connexion
 * SQL query
 
-#### Deferred technical aspects :
+### Deferred technical aspects :
 * Middleware routing
 * Route parameters
 * User authentification and authorization features
