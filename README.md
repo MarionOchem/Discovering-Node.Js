@@ -7,7 +7,7 @@ A simple Dataviz project to discover Node.js runtime environment with Express, P
 * Interactive svg map of middle-east
 
 
-### What i have learn :
+### What I have learned :
 
 #### Node.js 
 * Server-side application runtime environment
