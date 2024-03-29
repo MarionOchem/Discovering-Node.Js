@@ -1,6 +1,13 @@
 # Discovering-Node.Js
-A simple Dataviz project to discover Node.js runtime environment with Express, PostgreSQL, Chart.js, ejs-npm, pg-npm and nodemon-npm.
+A simple Dataviz project to discover Node.js runtime environment.
 
+### Stack :
+* Express
+* PostgreSQL
+* Chart.js
+* EJS
+* pg (node)
+* nodemon
 
 ### Project :
 * Responsive charts of geopolitical thematics in Libya over several decades
